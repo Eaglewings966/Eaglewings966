@@ -48,7 +48,7 @@ I enjoy **learning by building**, sharing knowledge, and collaborating on impact
 ---
 
 *“Building cloud solutions today for a scalable tomorrow.”* ☁️🚀
-## Hi there 👋
+
 
 <!--
 **Eaglewings966/Eaglewings966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
